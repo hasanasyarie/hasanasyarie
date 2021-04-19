@@ -13,9 +13,6 @@
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanasyarie&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 
 
-### ✨ My Top Repositories
-
-
 ### ✨ You can reach me at
 <p>
   <a href="https://www.linkedin.com/in/hasan-asy-arie-82b0401b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
