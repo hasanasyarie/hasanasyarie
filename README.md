@@ -12,7 +12,6 @@
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanasyarie&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 
-<br>
 
 ### ✨ My Top Repositories
 <!--
@@ -30,6 +29,3 @@
   <a href="https://www.instagram.com/arieasyhasan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/arieasyhasan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
-
-
