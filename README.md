@@ -3,7 +3,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Hasan Asy Arie
 
 <p align="justify">
-  I am mathematicians who passionate to be a data analyst and data scientist. I love to learn Data Visualization, Big Data, Machine Learning, Data Mining, Python programming, SQL and other data science topics.
+  I am mathematicians and data enthusiast. I love to learn Data Visualization, Big Data, Machine Learning, Data Mining, Python programming, SQL and other data science topics.
 </p>
 
 <br> 
