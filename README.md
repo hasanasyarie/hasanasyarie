@@ -7,7 +7,7 @@
 </p>
 
 <br> 
-✨ **My Top Repositories**
+✨ [**My Top Repositories**]
 
 
 - [**Personal Projects**](https://github.com/hasanasyarie/Personal-Project) - *Here is place to share my personal projects that I have done.*
