@@ -9,7 +9,7 @@
 <br> 
 My Certificate
 <br>
-<img src="https://github.com/hasanasyarie/Sertificate/blob/main/Hasan_Arie_ORBITFA62fbcd6d059ea_pages-to-jpg-0001.jpg" width="100px">
+<img src="https://github.com/hasanasyarie/Sertificate/blob/main/Hasan_Arie_ORBITFA62fbcd6d059ea_pages-to-jpg-0001.jpg" width="200px">
 
 #### ✨ You can reach me at
 <p>
