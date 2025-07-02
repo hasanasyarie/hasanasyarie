@@ -8,7 +8,8 @@
 
 <br> 
 # My Certificate
-!(https://drive.google.com/drive/folders/1tjFVAyxboDIrSRtnlzFm8mzZ-JSbljVM)
+<br>
+<img src="https://drive.google.com/drive/folders/1tjFVAyxboDIrSRtnlzFm8mzZ-JSbljVM" width="50px">
 
 #### ✨ You can reach me at
 <p>
