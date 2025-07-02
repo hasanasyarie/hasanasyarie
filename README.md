@@ -7,7 +7,7 @@
 </p>
 
 <br> 
-### ✨ My Top Repositories
+### ✨ My Top Repositories ###
 
 
 - [**Personal Projects**](https://github.com/hasanasyarie/Personal-Project) - *Here is place to share my personal projects that I have done.*
@@ -15,7 +15,7 @@
 - [**Python Case Study**](https://github.com/hasanasyarie/Personal-Python-Case-Study) - *Here is a place to share python implementations in solving math case studies.*
 - [**MSIB-Orbit-Future-Academy**](https://github.com/hasanasyarie/MSIB-Orbit-Future-Academy) - *This is where I share what I have learned in Machine Learning & Deep Learning training at MSIB Orbit Future Academy.*
 - [**Project-Dicoding-Indonesia**](https://github.com/hasanasyarie/Project-Dicoding-Indonesia) - *This is where I share what I have learned in Machine Learning & Deep Learning training at Dicoding Indonesia.*
-- 
+
 #### ✨ You can reach me at
 <p>
   <a href="https://www.linkedin.com/in/hasan-asy-arie-82b0401b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
